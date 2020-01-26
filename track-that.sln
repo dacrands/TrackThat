@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "track-that", "track-that.csproj", "{0946C52D-0B7C-492A-9CE9-1A2658739EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0946C52D-0B7C-492A-9CE9-1A2658739EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0946C52D-0B7C-492A-9CE9-1A2658739EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0946C52D-0B7C-492A-9CE9-1A2658739EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0946C52D-0B7C-492A-9CE9-1A2658739EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2215B844-6382-46CF-8820-4798DAAFD147}
+	EndGlobalSection
+EndGlobal
