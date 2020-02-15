@@ -7,8 +7,8 @@ export class Home extends Component {
     return (
       <div>
             <h1>Track That</h1>
-            <p>Will it auto reload?</p>
-            
+            <p>Managers will be able to track employee trainings</p>
+            <p>This is will be really cool</p>
       </div>
     );
   }
