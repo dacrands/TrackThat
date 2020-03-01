@@ -8,5 +8,6 @@ namespace track_that.Models
 {
     public class ApplicationUser : IdentityUser
     {
+        public virtual ICollection<Employee> Employees { get; set; }
     }
 }
